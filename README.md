@@ -1,2 +1,2 @@
 # DrowsinessDetectionOpenCV
-Driver's Drowsiness detection with Open Computer vision and implemented with Arduino.
+Drowsy driving is a major cause of traffic accidents and fatalities. To address this problem, we have developed a real-time machine learning-based driver's alertness monitoring system. Our system uses a YOLO B5 model to detect the driver's face and eyes in real time. The model then determines the driver's alertness state by analyzing the driver's eye closure and blinking. If the driver is detected to be drowsy, the system triggers an alarm to alert the driver. The system is evaluated using a dataset of real-world driving videos. The proposed system can be used to enhance road safety by reducing the number of drowsy driving accidents.
